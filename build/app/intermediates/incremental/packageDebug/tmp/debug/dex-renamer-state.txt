@@ -1,0 +1,4 @@
+#Wed Jun 26 16:36:23 IRDT 2019
+base.0=C\:\\Users\\MohammadHasan\\Desktop\\Amirhossein\\telegram2\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
